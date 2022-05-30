@@ -1,5 +1,5 @@
 # Assingment 0: Markdown
-# Some Math Equation
+## Some Math Equation
 |Syntax   |Description|Test Text  |
 |:----:   |:---------:|:-------:  |
 |Header   |Title      |Here's this|
