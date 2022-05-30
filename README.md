@@ -1,6 +1,6 @@
 # Assingment 0: Markdown
 ## Some Math Equation
-\(E=mc^2\)，$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
+$$f_{1}(w) = \frac{σ^2}{2π}$$
 |Syntax   |Description|Test Text  |
 |:----:   |:---------:|:-------:  |
 |Header   |Title      |Here's this|
