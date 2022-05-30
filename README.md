@@ -14,7 +14,7 @@
        - first sub-sub-item
     - second sub-item
 
-![alt text](http://picsum.photos/200/200)
+![alt text](/home/rusho/cse-21/PORFESSIONAL CODE/markdown_0/markdown_0/Screenshot from 2022-05-30 22-47-17.png)
 
 ## Table with alignment
 <p>You can align text in the columns to the left, right, or center by adding a colon(:)to the left, right, or on both side of the hyphens within the header row.</p>
@@ -26,4 +26,7 @@
 
 ## Instructions
 <p>6.S191 software labs are designed to be completed at your own pace. At the end of each of the labs, there will be instructions on how you can submit your notebool for grade.Additionally, if you would like to submit your lab as part of the 6.S191 lab competitions, instructions regarding what information must be submitted is also provided at the end of each lab.</p>
+
+### License
+All code in this repository is copyright 2022 
 
