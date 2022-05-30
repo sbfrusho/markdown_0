@@ -14,7 +14,7 @@
        - first sub-sub-item
     - second sub-item
 
-![alt text](/home/rusho/cse-21/PORFESSIONAL CODE/markdown_0/markdown_0/Screenshot from 2022-05-30 22-47-17.png)
+![alt text](https://github.com/sbfrusho/ratake/blob/master/Screenshot%20from%202022-05-30%2022-47-17.png)
 
 ## Table with alignment
 <p>You can align text in the columns to the left, right, or center by adding a colon(:)to the left, right, or on both side of the hyphens within the header row.</p>
