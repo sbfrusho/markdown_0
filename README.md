@@ -28,6 +28,6 @@
 <p>6.S191 software labs are designed to be completed at your own pace. At the end of each of the labs, there will be instructions on how you can submit your notebool for grade.Additionally, if you would like to submit your lab as part of the 6.S191 lab competitions, instructions regarding what information must be submitted is also provided at the end of each lab.</p>
 
 ### License
-<p>All code in this repository is copyright 2022 [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/).All Rights Reserved.<br>
-Lisensed under the MIT License. You may not use this file except in compi=liance with the License. Use and/or modification of this code outside of 6.S191 must reference.</p>
+<p>All code in this repository is copyright 2022 [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/). All Rights Reserved.<br>
+Lisensed under the MIT License. You may not use this file except in compialiance with the License. Use and/or modification of this code outside of 6.S191 must reference.</p>
 
