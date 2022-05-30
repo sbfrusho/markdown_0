@@ -17,8 +17,11 @@
 ![This is an image](https://picsum.photos/200/200)
 
 
-
+## Table with alignment
+----------------------------------------------------
+<p>You can align text in the columns to the left, right, or center by adding a colon(:)to the left, right, or on both side of the hyphens within the header row.<\p><br>
 |Syntax   |Description|Test Text  |
 |:----:   |:---------:|:-------:  |
 |Header   |Title      |Here's this|
 |Paragraph|Text       |And more   |
+
