@@ -5,6 +5,8 @@
 <p align = "center">$f_{1}(w) = \frac{σ^2}{2π},ω∈[−π,π]$ 
 
 1.  First item a. first sub-item A) first sub-sub-item b.second sub-item
+2.  Second Item
+3.  Third item a.second sub item
 
 |Syntax   |Description|Test Text  |
 |:----:   |:---------:|:-------:  |
