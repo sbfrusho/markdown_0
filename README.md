@@ -16,7 +16,9 @@
     - second sub-item
 
 <img src="https://github.com/sbfrusho/ratake/blob/master/Screenshot%20from%202022-05-30%2022-47-17.png" alt="text" width = "200" height = "200">
+
 ```
+
 library(tidyverse)<br>library(mdsr)<br>SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +<br>geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")
 ```
 
