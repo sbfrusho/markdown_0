@@ -14,7 +14,7 @@
        - first sub-sub-item
     - second sub-item
 
-![This is an image](https://myoctocat.photos/200/200)
+![This is an image](https://picsum.photos/200/200)
 
 
 ## Table with alignment
