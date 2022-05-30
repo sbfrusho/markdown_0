@@ -14,7 +14,7 @@
        - first sub-sub-item
     - second sub-item
 
-![alt text](http://url/to/img.png)
+![alt text](http://picsum.photos/200/200)
 
 ## Table with alignment
 <p>You can align text in the columns to the left, right, or center by adding a colon(:)to the left, right, or on both side of the hyphens within the header row.</p>
