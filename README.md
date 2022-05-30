@@ -18,7 +18,7 @@
 
 
 ## Table with alignment
-<p>You can align text in the columns to the left, right, or center by adding a colon(:)to the left, right, or on both side of the hyphens within the header row.</p><br>
+<p>You can align text in the columns to the left, right, or center by adding a colon(:)to the left, right, or on both side of the hyphens within the header row.</p>
 
 |Syntax   |Description|Test Text  |
 |:----:   |:---------:|:-------:  |
