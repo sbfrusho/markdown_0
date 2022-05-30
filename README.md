@@ -24,3 +24,6 @@
 |Header   |Title      |Here's this|
 |Paragraph|Text       |And more   |
 
+## Instructions
+<p>6.S191 software labs are designed to be completed at your own pace. At the end of each of the labs, there will be instructions on how you can submit your notebool for grade.Additionally, if you would like to submit your lab as part of the 6.S191 lab competitions, instructions regarding what information must be submitted is also provided at the end of each lab.</p>
+
