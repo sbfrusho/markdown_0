@@ -7,6 +7,10 @@
 1.  First item a. first sub-item A) first sub-sub-item b.second sub-item
 2.  Second Item
 3.  Third item a.second sub item
+4.  Fourth item
+
+-  Second Item
+    - first sub-item
 
 |Syntax   |Description|Test Text  |
 |:----:   |:---------:|:-------:  |
