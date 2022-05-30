@@ -1,6 +1,6 @@
 # markdown_0
-#Assignment 0: Markdown
 ------------------------
+#Assignment 0: Markdown
 ###Some Math Equation
 |Syntax   |Description|Test Text  |
 |:----:   |:---------:|:-------:  |
