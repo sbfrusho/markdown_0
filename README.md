@@ -14,10 +14,7 @@
        - first sub-sub-item
     - second sub-item
 
-![This is an image](https://www.vectorstock.com/royalty-free-vector/cat-in-cage-icon-cartoon-style-vector-30055017)
-
-
-
+![alt text](http://url/to/img.png)
 
 ## Table with alignment
 <p>You can align text in the columns to the left, right, or center by adding a colon(:)to the left, right, or on both side of the hyphens within the header row.</p>
