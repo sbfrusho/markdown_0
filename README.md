@@ -16,6 +16,8 @@
 
 ![alt text](https://github.com/sbfrusho/ratake/blob/master/Screenshot%20from%202022-05-30%2022-47-17.png)
 
+<<img src="https://www.example.com/images/dinosaur.jpg" alt="text" width = "200" height = "200">
+
 ## Table with alignment
 <p>You can align text in the columns to the left, right, or center by adding a colon(:)to the left, right, or on both side of the hyphens within the header row.</p>
 
