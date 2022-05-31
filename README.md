@@ -1,6 +1,6 @@
 # Assingment 0: Markdown
 ## Some Math Equation
-<p align = "center">First equation: Y =Xβ+ε_y, ∀X
+<p align = "center">First equation: Y =$Xβ+ε_y, ∀X$
 <p align = "center">Second equation: $X=Zγ+ε_x$
 <p align = "center">$f_{1}(w) = \frac{σ^2}{2π},ω∈[−π,π]$ 
 
